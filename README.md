@@ -1,7 +1,10 @@
 # calendar gui 
 
-- add database from script.sql 
+- add database from script.sql
+
+  
 -run main.py 
+
 
 
  
