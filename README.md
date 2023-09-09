@@ -1,2 +1,3 @@
-# Takvim gui 
+# calendar gui 
+-run on the cmd 
  
