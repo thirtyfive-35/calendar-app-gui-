@@ -1,6 +1,10 @@
 # calendar gui 
 
-- add database from script.sql
+- adding database from script.sql
+
+- replace similar code blocks as below
+  
+![Ekran görüntüsü 2023-09-10 015502](https://github.com/thirtyfive-35/calendar-app-gui-/assets/99458931/f0ffadb9-482d-4cb6-8f38-1324059d2718)
 
   
 -run main.py 
