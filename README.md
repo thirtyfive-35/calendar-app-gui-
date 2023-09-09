@@ -1,5 +1,7 @@
 # calendar gui 
--run on the cmd 
+
+- add database from script.sql 
+-run main.py 
 
 
  
